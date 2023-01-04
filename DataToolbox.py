@@ -20,7 +20,6 @@ import wordcloud
 
 
 """@package DataToolbox
-ANLY 555 Spring 2022
 Author(s): Jacob McIntosh 
 
 This module encompasses a simple Data Science Toolbox for use in
